@@ -1,5 +1,4 @@
-
-  body {
+body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
       color: #818181;
@@ -17,11 +16,15 @@
       color: #303030;
       font-weight: 400;
       margin-bottom: 30px;
+
   }  
   .jumbotron {
       background-color: #f4511e;
+      background-image: url(images/godwinformayor.jpg);
+      background-repeat: no-repeat;
+      background-position: center;
       color: #fff;
-      padding: 100px 25px;
+      padding: 350px 25px;
       font-family: Montserrat, sans-serif;
   }
   .container-fluid {
@@ -175,4 +178,21 @@
     .logo {
         font-size: 150px;
     }
-}
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
