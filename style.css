@@ -26,6 +26,20 @@ body {
       color: #fff;
       padding: 350px 25px;
       font-family: Montserrat, sans-serif;
+
+  }
+  form ul{
+        padding-top:150px
+        text-decoration: none;
+        display: block;
+        padding: 10px;
+  }
+  form li{
+  padding: 10px;
+  font-height:40px;
+  font-size: 36px;
+  text-decoration: none;
+  display:block;
   }
   .container-fluid {
       padding: 60px 50px;
